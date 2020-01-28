@@ -18,7 +18,7 @@ yarn start
 
 ## Links
 
-[Presentation](/docs/TypeScript.pdf)
+[Presentation](https://docs.google.com/presentation/d/1FCiOaPnzgzuZKeUkA2LRJFjWc-KgTCmbIOGzpfgCbMg/edit?usp=sharing)
 
 [Twitter](https://twitter.com/_luistak)
 
