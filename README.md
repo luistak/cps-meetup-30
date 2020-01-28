@@ -19,6 +19,9 @@ yarn start
 ## Links
 
 [Presentation](/docs/TypeScript.pdf)
+
 [Twitter](https://twitter.com/_luistak)
+
 [Github](https://github.com/luistak)
+
 [Linkedin](https://www.linkedin.com/in/luis-takahashi/)
