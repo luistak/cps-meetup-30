@@ -1,6 +1,6 @@
 # cps-meetup-30
 
-This is the monorepo created at the [Campinas Meetup #30](https://www.meetup.com/pt-BR/campinas-frontend/events/267776112/) by me (@_luistak)
+This is the monorepo created at the [Campinas Meetup #30](https://www.meetup.com/pt-BR/campinas-frontend/events/267776112/) by (@_luistak)
 
 ## Usage
 
